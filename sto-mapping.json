@@ -1,0 +1,5322 @@
+[
+  {
+    "STO": "ABA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "ABG",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "AGR",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "AJM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "ALH",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "AMK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "ANP",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "ANR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "ARK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "AVI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BAG",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BAK",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BAS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BDA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BDB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BDT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BDU",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BET",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BGA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BGO",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BGS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BGU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BHJ",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BIR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BJE",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BJI",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BKJ",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BKM",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BKN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BKO",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BKP",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BKR",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BKS",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BKT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BLG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BLP",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BLS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BLT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BLW",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BNA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BNC",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BNN",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BPD",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BSK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BSO",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BST",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "BTA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BTC",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BTH",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "BUM",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "BYU",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "CAG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "CDN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "CDR",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "CRP",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "CTD",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "DAR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "DBS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "DGS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "DLM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "DLS",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "DLT",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "DRI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "DUM",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "GDT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "GEU",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "GLG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "GMN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "GNT",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "GST",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "HRU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "IDA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "IDI",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "IDL",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "IPU",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "JBS",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "JHO",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "JMB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "JMI",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "JRM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KAG",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KAI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KBI",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KBJ",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KBO",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KDT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KFR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KGG",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KGH",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KIB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KIJ",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KIS",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KJI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KLA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KLE",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KLR",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KMN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KMS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KNL",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KOA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KON",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KOT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KOU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "KPH",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KPI",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KRU",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KSG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KTJ",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KTL",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KTN",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KTU",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "KUL",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "KYT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LAM",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "LBA",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LBB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LBJ",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LBK",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LBP",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LBR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LBS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LBY",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LGB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LGS",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LHT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "LIM",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LIN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "LIW",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "LKP",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "LLG",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "LNO",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LOA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LSK",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LSM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LTM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "LUG",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "MAB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MBN",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MBO",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MCA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MCB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MCC",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MCD",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MCE",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MCF",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MCG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MDC",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MDH",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MEM",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MET",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MGA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MGD",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MGR",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MIN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "MIS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "MKL",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MKO",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MLH",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "MNA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MND",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MOR",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "MPA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MRO",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MRU",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "MSB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "MSK",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MTK",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MUA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MUB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MUD",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "MUR",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "NGB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "NGS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "NRS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "NTR",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "OKI",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PAM",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PAP",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PBB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PBC",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PBD",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PBI",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PBM",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PDB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PDC",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PDJ",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PDN",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PDP",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PDS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PDT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PDW",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PER",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PGA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PGC",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PGL",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PGP",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PJN",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PKB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PKR",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PLJ",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PMB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PMS",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PMY",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PNA",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PNB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PND",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PNH",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PNI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PNN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PNP",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PPJ",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PPN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PPT",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PRA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PRL",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PRR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PRS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PRT",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PRW",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "PSA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PSB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PSP",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PTC",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PTI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PTL",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PUB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PUK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PWG",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PYB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "PYK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "PYT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "RAI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "RAP",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "RBB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "RBI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "RBM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "RGT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SAB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SAK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SBG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SBL",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SBN",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SBO",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SBU",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SCC",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SDK",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SEA",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SET",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SGB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SGD",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SGI",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SGP",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SGT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SIB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SIE",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SIG",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SIH",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SIP",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SIR",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SIU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SJJ",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SKA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SKD",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SKI",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SKK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SKL",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SKN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SKY",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SLA",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SLG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SLJ",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SLK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SLM",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SLN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SLT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SLU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SMM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SMU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SNA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SOB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SOK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SPE",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SPM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SPN",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SPP",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SPS",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SPU",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SRA",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SRJ",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SRO",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SRT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SRW",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "SSG",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "STB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SUM",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SUN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SUP",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SUR",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SUS",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "SWL",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SYA",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "SYO",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TAB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TAK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TAM",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TAP",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TBH",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TBI",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TBK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TBR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TBT",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TER",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TGD",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TGP",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TIB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TIN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TIS",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TJB",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TJK",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TJM",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TJN",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TJP",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TJR",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TJT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TJU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TKB",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TKN",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TKU",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TLB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TLD",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TLK",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TLN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TMO",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TMU",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TPA",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TPI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TPJ",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TPL",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TPN",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TRA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TRS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TRT",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TSE",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TSS",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TTG",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TTJ",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "TTN",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TUB",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TUK",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "TUS",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "TWI",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "UBT",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "UGD",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "ULK",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "UNT",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "WJA",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 01"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 10"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 02"
+  },
+  {
+    "STO": "AWN",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "BAY",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BBL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BBL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BDK",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "BEK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BGG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BGG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BGL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BIN",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "BJA",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "BJD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BJO",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BJS",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "BJT",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BLJ",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BNJ",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "BON",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "BOO",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BRS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "BTJ",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CAS",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CAU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CBB",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CBD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CBE",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CBG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CBI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CBL",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CBN",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CBR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CBR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CBT",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CBU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CCD",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CCL",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CCR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CGD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CIB",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CID",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "CIK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CIL",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "CIW",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CJA",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CJG",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CJI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CJR",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CJU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CKA",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CKB",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CKC",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CKD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CKG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "CKI",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CKJ",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CKK",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CKL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CKP",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CKW",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CKY",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CLD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CLG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CLI",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CLL",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CLM",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CLS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CMI",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CMO",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CMS",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CNE",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CPA",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CPD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CPE",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "CPL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CPP",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "CPS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CPT",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CRI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CRS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CSA",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CSE",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CSK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CSL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CSN",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CSP",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CSR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CTR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CUG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CWA",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "CWD",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "CWI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CWN",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "CYI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "DEP",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "DGO",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "DMG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "DNI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "DTG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "DTM",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "EJI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "GAN",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "GBC",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "GBI",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "GDS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "GGK",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "GNH",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "GPI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "GRL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "GRU",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "GTA",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "GTS",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "HAR",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "HGM",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "IMY",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "JAG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "JBB",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "JBN",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "JCG",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "JGL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "JIA",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "JPK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "JSA",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "JTB",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "JTN",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "JTS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "JTW",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KAD",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KAL",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KAW",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KBY",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KDN",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KDY",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KHL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KIA",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KJO",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KLB",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KLD",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KLG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KLI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KLU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KMG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KMT",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KMY",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KNG",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KNU",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KPK",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KRA",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KRG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KRL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KRM",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "KRS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KRW",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "KSB",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KTE",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KTX",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "KTZ",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "LAG",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "LBG",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "LBI",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "LBU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "LEM",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "LGK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "LKG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "LMA",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "LOS",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "LSR",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "LWD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "LWL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "MEN",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "MER",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "MGB",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "MJL",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "MJY",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "MKR",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "MLB",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "MLP",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "MNJ",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "MRD",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "MRY",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "MUK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "NJG",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "NLD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PAB",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PAG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PAR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PAX",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PBN",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PBS",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PBY",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PCM",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PDE",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PDG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PDK",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "PDL",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PDM",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "PDR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PGB",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "PGD",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PGG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "PKU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PKY",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PLD",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PLM",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "PLR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PMN",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PMP",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PMU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PNL",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PPG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PRD",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PSK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PSM",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "PSR",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "PSU",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "PTR",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "PWK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "RCK",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "RDK",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "RGA",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "RJG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "RJP",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "RJW",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "RKS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "RMG",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "RMP",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SAG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SAM",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SDL",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SDM",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "SDU",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SEG",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SGA",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SGN",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SKB",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SKE",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SKJ",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SKM",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SLP",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "SMD",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SMH",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SMI",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "SOR",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SPA",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SPL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SPT",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SRH",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "SRP",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "STL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "STN",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "STR",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "SUB",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "SUE",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TAN",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TAR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TAR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TAS",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "TBE",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "TBL",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TGA",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "TGE",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "TGR",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TJH",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TJO",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TLE",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "TLJ",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "TNK",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "TPR",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "TRG",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "TSM",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "UBR",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "WDS",
+    "REGIOANAL": "REGIONAL 12"
+  },
+  {
+    "STO": "WNR",
+    "REGIOANAL": "REGIONAL 04"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 03"
+  },
+  {
+    "STO": "ABL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "ABR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "ABT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "ADW",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "AJA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "AJB",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "AJS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "ALA",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "APG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "APL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "APL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "APR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "ARB",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "ASB",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "ATB",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "AYN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BAA",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "BAB",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BAN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BAW",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BBA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BBE",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BBS",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BBT",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BCK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BCR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BDG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BDN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BDY",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BEA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BEJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BEN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "BIM",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "BJN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BJR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BJW",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "BKA",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BKG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BKI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BKL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BLB",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BLI",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "BLO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BLR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BLU",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BMK",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BMU",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BNL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BNO",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "BNR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BNU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BOJ",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BOW",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BPG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BPN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BRB",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BRD",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BRG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BRN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BTG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BTL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BTR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "BTU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BUG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BWE",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BWG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BWN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "BYL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "BYM",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "CAT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "CDS",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "CEP",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "CLC",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "CLO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "CMA",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "CRB",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "CRM",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "DDS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "DLA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "DLG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "DMA",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "DMO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "DMP",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "DNO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "DPT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "DRN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "EMP",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "END",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "GBG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GBU",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GDA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GDG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GDI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GDO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GDW",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GEM",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GEN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GER",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "GGR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GIN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "GKW",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GLD",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GLM",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GMK",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "GML",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GND",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GNK",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GNP",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GOD",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GOM",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GON",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GRA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GRG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "GSK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "GUR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "IJK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JBR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "JEN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JER",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JGO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JGR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JGW",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JHR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "JOM",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JPR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "JSO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "JTO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JTR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "JWN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KAA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KAK",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KAR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KBL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KBM",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KBN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KBR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KBS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KBU",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KDE",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KDI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KDL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KDU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KDW",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KEF",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "KEL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KEN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KEP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KET",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KGD",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KJE",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KJR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KKH",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KKR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KLH",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "KLJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KLM",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "KLN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KLP",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KLS",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KLT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KLX",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KMJ",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KML",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KMP",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "KNN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KNO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KNT",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "KPN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "KPO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KPP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KPS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KRJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KRK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KRN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KRP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KRT",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KRY",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KRZ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KTA",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KTE",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KTK",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KTM",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KTO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KTS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "KTW",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KUD",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "KUT",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "KWR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "LBO",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "LCE",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "LDY",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "LKI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "LMG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "LMJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "LOG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "LRT",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "LSE",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "LVN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "LWB",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "LWG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MAN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MAO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MBG",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "MCR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MGE",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MGN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MGO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MGT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MIP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MJE",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MJP",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MJS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MJT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MKG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MLD",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MLG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MLK",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "MMN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "MMR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "MNK",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MNZ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MOJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MRR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MRT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MSL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MSO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MSP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MTR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "MTY",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MUN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "MYR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "MZN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NDA",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "NDL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NGA",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "NGI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NGR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "NGU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NJA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NJK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NKN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "NRJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NSD",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "NSD",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "NTG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "NWI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "OMB",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "OSP",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "PAD",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PAE",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PAN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PAT",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PBG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PBL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PCT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PDA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PEC",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PEN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PGE",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PGK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PGR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PII",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PKL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PKM",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PKS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PLG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PLO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PME",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PML",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PNG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PNZ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "POG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PON",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "POS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PPR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PRB",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PRG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PRI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PRJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PRK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PRN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PRY",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "PSG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PSN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PTN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PUA",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "PUG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PWB",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PWJ",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PWO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "PWS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "PWT",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "RBN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "RBP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "RDB",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "RDD",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "REO",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "RGJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "RGL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "RKT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "RTE",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SAL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SAP",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SAR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SAT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SAU",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SBA",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SBI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SBM",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SBP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SBW",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SDA",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SDD",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SDH",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SDJ",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SDN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SDO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SDY",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SEB",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SEC",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SEL",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SGG",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SGR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SGS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SIL",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SIT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SKH",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SKP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SKR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SKS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SKW",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SL1",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SLH",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SLI",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SLO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SLW",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SMA",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SMC",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SMJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SMN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SMO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SMP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SMT",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SMY",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SNT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SOE",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SOP",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SPD",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SPG",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SPJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SPK",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SPO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SRG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SRR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SSL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SUH",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SUK",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "SWE",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SWI",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "SWJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "SWT",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TAY",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TBN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "TBU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TEG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TEM",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TET",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "TGN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TGS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TGU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TLW",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "TMP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TNA",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "TNS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TNZ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TOP",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "TOS",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TPH",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TPO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TPS",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "TRE",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TRO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TTL",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TUG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TUL",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TUN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TUR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "TWM",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "TWS",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "UBN",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "UBU",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "UNR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "UTR",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WAN",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WAT",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WGI",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WGP",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "WKB",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "WKU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WLR",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WNG",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WNJ",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WNS",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WOS",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WRJ",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WRO",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WRP",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WRU",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WSO",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "WTS",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "WWR",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "YSN",
+    "REGIOANAL": "REGIONAL 06"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 07"
+  },
+  {
+    "STO": "tida",
+    "REGIOANAL": "REGIONAL 05"
+  },
+  {
+    "STO": "ABE",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "ABO",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "AGN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "AGT",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "AJN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "AMD",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "AMP",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "AMR",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "AMT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "ANJ",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "ANT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "APN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BAD",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "BAH",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BAL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BAM",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BAR",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BBR",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BBU",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BDE",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "BDO",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BEO",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BGI",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BIA",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "BIG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BIT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BJM",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BKU",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BKY",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BLC",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BLK",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BLN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BNT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BOA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BOR",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BOT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BRI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BRU",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BTB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BTI",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "BTK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "BTN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BUL",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "BUO",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "BUT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "CGI",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "DGL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "DOB",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "ENR",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "FFA",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "GLL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "GMB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "GSA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "GTL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "GTO",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "HLS",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "HNU",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "ISM",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "JAP",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "JAW",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "JLL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "JNP",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "JPB",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "JWT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KAU",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KBG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KDG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KDR",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KIM",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KIN",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "KIP",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KJN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KKA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KKN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KKP",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KKU",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KKY",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KMI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KNA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KOB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KOL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KOR",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KPB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KPL",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KRI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KRO",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KSO",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KTB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KTG",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KTP",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KUK",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "KWD",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "KWN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "KYG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LAB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LAN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "LBH",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "LBT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "LIK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LKT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LMD",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LMP",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LNN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LOB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LOL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "LRA",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "LSS",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "LUL",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "LWU",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MAJ",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MAK",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MAL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MAM",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MAR",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MAS",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MAT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MBD",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MDG",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MDO",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MGG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MGL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MHK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MJW",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MKM",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MLA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MLL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MLN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MMS",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MOL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MOT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MPW",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MRB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MRK",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "MRS",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MSH",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "MTA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "MTP",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MTW",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "MWR",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "NAB",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "NEG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "NGG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "NIR",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "NML",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "NNK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "NPN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PAA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PAO",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "PBU",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PEA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PGI",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PGM",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PGN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PGT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PIA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PIK",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PIN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PKA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PKN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PLA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PLB",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PLC",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PLE",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PLK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PLL",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PLP",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PLW",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PMA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PMK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PNJ",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PNK",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PPS",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PRC",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PRE",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PSO",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "PTG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PTK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PUT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "PYM",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "RAH",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "RBA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "RPN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "RSK",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "RTA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "RTP",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SAD",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SAI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SAN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SAO",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SBR",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SDR",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SED",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SEI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SEM",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SEP",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SER",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SFI",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SGK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SGU",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SID",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SIN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SIW",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SKG",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SKU",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SLY",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SMB",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SML",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "SMR",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SNI",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "SNN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SNW",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SNY",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SON",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "SPR",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "SPY",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SRD",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SRK",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SRM",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "SRU",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "SRY",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SSI",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "STA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "STG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "STI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "STT",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SUA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "SUD",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "SUG",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TAG",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TAJ",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TBA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TBG",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "TBY",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TDN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TEN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TGG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "THN",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TIM",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "TJL",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TKA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TKI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TLA",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TLG",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TLY",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TMA",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TMB",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "TMD",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TMH",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TML",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TMR",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "TNB",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TNG",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TNT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TOB",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TOL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TPE",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TRD",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TRJ",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TRK",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TSL",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TSN",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "TTE",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TUA",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "TUT",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "TWL",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "ULI",
+    "REGIOANAL": "REGIONAL 08"
+  },
+  {
+    "STO": "UNH",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "WAE",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "WAM",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "WHA",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "WMR",
+    "REGIOANAL": "REGIONAL 11"
+  },
+  {
+    "STO": "WNC",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "WON",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "WTG",
+    "REGIOANAL": "REGIONAL 09"
+  },
+  {
+    "STO": "WTP",
+    "REGIOANAL": "REGIONAL 09"
+  }
+]
